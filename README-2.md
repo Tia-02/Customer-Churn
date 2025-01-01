@@ -1,4 +1,4 @@
-# PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-
+# Customer Churn Analysis - Call Centre
 
 We aim to build innovative technology solutions that differentiate us from our competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so our people could learn how to use digital tools for data visualisation as well as automation, data cleansing and more.
 
@@ -8,9 +8,7 @@ This is why you're here! Our Digital Accelerator programme is an internal chance
 
 **Task 1: Call Centre Trends**![Call Centre Trends-1](https://github.com/ANKUSH-ASR/PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-/assets/149473786/8c6adbf9-330f-49a4-b412-a904429d7648)
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
-
-Possible KPIs include (to get you started, but not limited to):
+KPIs included:
 
 Overall customer satisfaction
 Overall calls answered/abandoned
@@ -20,23 +18,16 @@ Agent’s performance quadrant -> average handle time (talk duration) vs calls a
 
 **Task 2: Customer Retention**
 
-A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
-
-In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
-
 Customers in the telecom industry are hard-earned: we don’t want to lose them
 The retention department is here to get customers back in case of termination
 Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk
-We have done customer analysis with Excel: it has always ended in a dead-end
 We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.![Customer Churn and Risk Analysis-1](https://github.com/ANKUSH-ASR/PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-/assets/149473786/0693b0b4-4480-4125-ba00-1860a297bfca)
 ![Customer Churn and Risk Analysis-2](https://github.com/ANKUSH-ASR/PwC-Switzerland-Power-BI-Job-Simulation-on-Forage-/assets/149473786/6a6997a9-b8fa-4236-ab55-2145a1a8e914)
 
 **Task 3: Diversity & Inclusion**
-Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated.
 
-At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
-
-Here is a hint: Calculating the following measures could help to define proper KPIs:
+Calculating the following measures could help to define proper KPIs:
 
 number of men
 number of women
